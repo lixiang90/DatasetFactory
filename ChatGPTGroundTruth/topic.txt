@@ -1,0 +1,160 @@
+Algebraic Geometry
+Algebraic Topology
+Combinatorics
+Partial Differential Equations
+Number Theory
+Category Theory
+Mathematical Logic
+Functional Analysis
+Lie Theory in Mathematics
+Dynamical Systems
+Complex Analysis
+Real Analysis
+Differential Geometry
+Representation Theory
+Probability Theory
+Topological Data Analysis
+Abstract Algebra
+Cryptography
+Mathematical Optimization
+Mathematical Physics
+Condensed Matter Physics
+Quantum Mechanics
+Electromagnetism
+Thermodynamics
+Particle Physics
+Astrophysics
+Nuclear Physics
+General Relativity and Cosmology
+Optics and Photonics
+Plasma Physics
+Biophysics
+Computational Physics
+Acoustics and Vibration
+Nonlinear Dynamics and Chaos
+Quantum Field Theory
+Classical Mechanics
+String Theory
+Solid State Physics
+Geophysics
+Statistical Mechanics
+Plant Taxonomy
+Microbial Taxonomy
+Vertebrate Taxonomy
+Paleontology
+Entomology
+Molecular Biology
+Cell Biology
+Genetics
+Pathology
+Biotechnology
+Zoology
+Marine Biology
+Neurobiology
+Developmental Biology
+Anatomy
+Evolutionary Biology
+Virology
+Reproductive Biology
+Pharmacology
+Epidemiology
+Organic Chemistry
+Inorganic Chemistry
+Physical Chemistry
+Analytical Chemistry
+Biochemistry
+Polymer Chemistry
+Environmental Chemistry
+Nuclear Chemistry
+Materials Chemistry
+Medicinal Chemistry
+Geochemistry
+Astrochemistry
+Computational Chemistry
+Surface Chemistry
+Electrochemistry
+Photochemistry
+Thermochemistry
+Spectroscopy
+Crystallography
+Green Chemistry
+Mechanical Engineering
+Electrical Engineering
+Civil Engineering
+Chemical Engineering
+Aerospace Engineering
+Biomedical Engineering
+Industrial Engineering
+Computer Engineering
+Environmental Engineering
+Materials Science and Engineering
+Nuclear Engineering
+Telecommunications Engineering
+Petroleum Engineering
+Agricultural Engineering
+Mining Engineering
+Structural Engineering
+Geotechnical Engineering
+Robotics Engineering
+Marine Engineering
+Systems Engineering
+Anesthesiology
+Cardiology
+Dermatology
+Emergency Medicine
+Endocrinology
+Gastroenterology
+Geriatrics
+Hematology
+Immunology
+Infectious Diseases
+Nephrology
+Neurology
+Obstetrics and Gynecology
+Oncology
+Ophthalmology
+Orthopedics
+Otolaryngology (ENT)
+Pediatrics
+Psychiatry
+Pulmonology
+Artificial Intelligence
+Machine Learning
+Data Science
+Computer Vision
+Natural Language Processing
+Computer Graphics
+Human-Computer Interaction
+Computer Networks
+Operating Systems
+Software Engineering
+Databases
+Algorithms and Complexity Theory
+Computer Security
+Computer Architecture
+High Performance Computing
+Bioinformatics
+Web Development
+Mobile Development
+Game Development
+Compiler Design
+Sociology
+Psychology
+Anthropology
+Economics
+Political Science
+History
+Geography
+Linguistics
+Archaeology
+Demography
+International Relations
+Public Policy
+Law
+Social Work
+Education
+Criminology
+Communication Studies
+Cultural Studies
+Gender Studies
+Environmental Studies
